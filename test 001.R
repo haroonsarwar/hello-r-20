@@ -12,3 +12,4 @@ Player2 = " Hamza"
 print(Player1)
 print(Player2)
 
+name_2 = "Irfan"
